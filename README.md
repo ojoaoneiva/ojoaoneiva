@@ -11,5 +11,11 @@
 </div>
 
 ### Contato
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojoaoneiva/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jg.neiva@gmail.com)
+<div align="left">
+    <a href="https://www.linkedin.com/in/ojoaoneiva/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="mailto:jg.neiva@gmail.com" alt="gmail">
+    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+</div>
