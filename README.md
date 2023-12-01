@@ -19,6 +19,8 @@
     <img align="center" alt="gsap" src="https://img.shields.io/badge/GSAP.js-339933?style=for-the-badge"/>
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass.js-61DAFB?style=for-the-badge"/>
     <img align="center" alt="jwt" src="https://img.shields.io/badge/JWT-FF5733?style=for-the-badge"/>
+    <img align="center" alt="express" src="https://img.shields.io/badge/Express-4479A1?style=for-the-badge"/>
+    <img align="center" alt="bcryptjs" src="https://img.shields.io/badge/BcryptJS.js-339933?style=for-the-badge"/>
 </div>
 
 
