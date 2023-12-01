@@ -11,8 +11,8 @@
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-61DAFB?style=for-the-badge"/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQlite-4479A1?style=for-the-badge"/>
+    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge"/>
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=MySQL&logoColor=black"/>
     <img align="center" alt="restful api" src="https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge"/>
 </div>
 
