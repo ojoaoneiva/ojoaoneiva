@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello! Welcome to my GitHub 👋 </h1>
-<h3 align = "center"> I'm a Fullstack developer </h3>
+<h3 align = "center"> I'm a fullstack developer </h3>
 
 -  Visit my portfolio [https://joaoneiva.surge.sh/](https://joaoneiva.surge.sh/)
 
