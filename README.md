@@ -1,7 +1,8 @@
 <h1 align = "center"> Hello! Welcome to my GitHub 👋 </h1>
 <h3 align = "center"> I'm a Fullstack developer </h3>
 
-
+-  Visit my portfolio [https://joaoneiva.surge.sh/](https://joaoneiva.surge.sh/)
+- 
 ![Joao Neiva GitHub stats](https://github-readme-stats.vercel.app/api?username=ojoaoneiva&show_icons=true&locale=en)
 
 ### Tecnologies:
