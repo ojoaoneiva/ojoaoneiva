@@ -19,14 +19,14 @@
     <img align="center" style="margin-bottom: 10px;" alt="react native" src="https://img.shields.io/badge/React Native-3178C6?style=for-the-badge&logo=ReactNative"/>
     <img align="center" style="margin-bottom: 10px;" alt="restful api" src="https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge"/>
     <img align="center" style="margin-bottom: 10px;" alt="material ui" src="https://img.shields.io/badge/Material UI-61DAFB?style=for-the-badge"/>
-    <img align="center" style="margin-bottom: 10px;" alt="gsap" src="https://img.shields.io/badge/GSAP.js-339933?style=for-the-badge"/>
-    <img align="center" style="margin-bottom: 10px;" alt="sass" src="https://img.shields.io/badge/Sass.js-61DAFB?style=for-the-badge"/>
+    <img align="center" style="margin-bottom: 10px;" alt="gsap" src="https://img.shields.io/badge/GSAP-339933?style=for-the-badge"/>
+    <img align="center" style="margin-bottom: 10px;" alt="sass" src="https://img.shields.io/badge/Sass-61DAFB?style=for-the-badge"/>
     <img align="center" style="margin-bottom: 10px;" alt="jwt" src="https://img.shields.io/badge/JWT-FF5733?style=for-the-badge"/>
     <img align="center" style="margin-bottom: 10px;" alt="express" src="https://img.shields.io/badge/Express-4479A1?style=for-the-badge"/>
     <img align="center" style="margin-bottom: 10px;" alt="bcryptjs" src="https://img.shields.io/badge/BcryptJS.js-339933?style=for-the-badge"/>
     <img align="center" style="margin-bottom: 10px;" alt="postgres" src="https://img.shields.io/badge/POSTGRES-F7DF1E?style=for-the-badge&logo=POSTGRES&logoColor=black"/>
     <img align="center" style="margin-bottom: 10px;" alt="Type ORM" src="https://img.shields.io/badge/Type ORM-61DAFB?style=for-the-badge"/>
-    <img align="center" style="margin-bottom: 10px;" alt="Nest js" src="https://img.shields.io/badge/NESTJS-F7DF1E?style=for-the-badge&logo=NESTJS&logoColor=black"/>
+    <img align="center" style="margin-bottom: 10px;" alt="Nest js" src="https://img.shields.io/badge/NEST.JS-E34F26?style=for-the-badge&logo=NESTJS&logoColor=white"/>
 </div>
 
 
