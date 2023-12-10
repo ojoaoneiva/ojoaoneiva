@@ -1,15 +1,6 @@
 <h1 align = "center"> Hello! Welcome to my GitHub 👋 </h1>
-<h3 align = "center"> I'm Full-Stack developer </h3>
+<h3 align = "center"> I'm a Fullstack developer </h3>
 
-### Contact:
-<div align="left">
-    <a href="https://www.linkedin.com/in/ojoaoneiva/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="mailto:jg.neiva@gmail.com" alt="gmail">
-    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a>
-</div>
 
 ![Joao Neiva GitHub stats](https://github-readme-stats.vercel.app/api?username=ojoaoneiva&show_icons=true&locale=en)
 
@@ -35,3 +26,12 @@
 </div>
 
 
+### Contact:
+<div align="left">
+    <a href="https://www.linkedin.com/in/ojoaoneiva/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="mailto:jg.neiva@gmail.com" alt="gmail">
+    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+</div>
