@@ -26,7 +26,7 @@
     <img align="center" style="margin-bottom: 10px;" alt="bcryptjs" src="https://img.shields.io/badge/BcryptJS.js-339933?style=for-the-badge"/>
     <img align="center" style="margin-bottom: 10px;" alt="postgres" src="https://img.shields.io/badge/POSTGRES-F7DF1E?style=for-the-badge&logo=POSTGRES&logoColor=black"/>
     <img align="center" style="margin-bottom: 10px;" alt="Type ORM" src="https://img.shields.io/badge/Type ORM-61DAFB?style=for-the-badge"/>
-    <img align="center" style="margin-bottom: 10px;" alt="Nest js" src="https://img.shields.io/badge/NEST.JS-E34F26?style=for-the-badge&logo=NESTJS&logoColor=white"/>
+    <img align="center" style="margin-bottom: 10px;" alt="Nest js" src="https://img.shields.io/badge/NEST.JS-239120?style=for-the-badge&logo=NESTJS&logoColor=white"/>
 </div>
 
 
